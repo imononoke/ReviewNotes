@@ -1,3 +1,7 @@
+---
+
+---
+
 # ReviewNotes
 
 建立自己的复习知识仓库，知识整理和笔记，不断完善。
@@ -6,9 +10,7 @@
 
 总图
 
-![JavaReview](/Users/isa/Documents/Review/Java/JavaReview.png)
-
-
+![Java](images/Java.png)
 
 [JavaReview](https://github.com/imononoke/ReviewNotes/blob/master/Java/Java.md)
 
@@ -18,7 +20,7 @@
 
 总图
 
-![Android](/Users/isa/Documents/Review/Android/Android.png)
+![Android](images/Android.png)
 
 
 
