@@ -2,49 +2,25 @@
 
 建立自己的复习知识仓库，知识整理和笔记，不断完善。
 
-# Java基础
+# Java
 
-## 基础
+总图
 
-### 特性
+![JavaReview](/Users/isa/Documents/Review/Java/JavaReview.png)
 
-### 泛型
 
-## Collections
 
-### Set
+[JavaReview](https://github.com/imononoke/ReviewNotes/blob/master/Java/Java.md)
 
-### List
 
-### Map
 
-## 并发
+# Android
 
-### Thread
+总图
 
-### 锁
+![Android](/Users/isa/Documents/Review/Android/Android.png)
 
-## JVM
 
-### Java内存区域
-
-### JVM垃圾回收
-
-### 类文件结构
-
-### 类加载过程
-
-# Android基础
-
-## Activity
-
-## Service
-
-## 系统机制
-
-### Binder机制
-
-### Handler机制
 
 # 数据结构 & 算法
 
