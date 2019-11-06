@@ -10,11 +10,17 @@
 
 三、多线程
 
+1. 锁
 
+   [Java那么多锁，能锁住灭霸吗？](https://juejin.im/post/5cf4d520f265da1b6a347ed1)
+
+2. 线程池
+
+   [Java线程池 - 你知它有多深](https://juejin.im/post/5cde2972f265da7e506593f3)
 
 四、JVM
 
-4.1 来自JVM的灵魂拷问：你是什么垃圾？](https://juejin.im/post/5d25aa94f265da1b8f1aea57)
+1 [来自JVM的灵魂拷问：你是什么垃圾？](https://juejin.im/post/5d25aa94f265da1b8f1aea57)
 
 
 
